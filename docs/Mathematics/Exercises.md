@@ -584,3 +584,5 @@ $$
 $$
 \frac{\partial^2 \psi(t, x)}{\partial t^2} - v^2 \frac{\partial^2 \psi(t, x)}{\partial x^2} = 0.
 $$
+
+
